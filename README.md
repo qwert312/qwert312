@@ -11,4 +11,5 @@
 ## Технохнологии, которые сейчас изучаю:
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
