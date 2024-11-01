@@ -1,15 +1,19 @@
 # <p align="center">Hi! My name is Daniil 👋</p>
 
-I am a beginner developer, currently focused on acquiring skills in backend development with Java. I have some educational experience with C#
+I am an aspiring backend developer with a focus on Java, actively building my skills and eager to apply them to real-world business applications :relaxed:
 
 ## Technologies I have experience with:
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-4B0082?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-363636?style=for-the-badge)
 ![MSSQL Server](https://img.shields.io/badge/-MSSQL%20Server-white?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-## Technologies I am currently learning:
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-F37143?style=for-the-badge)
+![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 
