@@ -2,7 +2,7 @@
 
 I am an aspiring backend developer with a focus on Java, actively building my skills and eager to apply them to real-world business applications :relaxed:
 
-## Technologies I have experience with:
+## Technologies I have experience with
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-4B0082?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-363636?style=for-the-badge)
@@ -19,5 +19,8 @@ I am an aspiring backend developer with a focus on Java, actively building my sk
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
+
+## Contacts
+* Telegram - https://t.me/qwwwer1_2
 
 
