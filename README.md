@@ -2,9 +2,7 @@
 
 I am an aspiring backend developer with a focus on Java, actively building my skills and eager to apply them to real-world business applications :relaxed:
 
-## Technologies I have experience with
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-4B0082?style=for-the-badge)
+## Technology stack 🔧
 ![SQL](https://img.shields.io/badge/-SQL-363636?style=for-the-badge)
 ![MSSQL Server](https://img.shields.io/badge/-MSSQL%20Server-white?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
