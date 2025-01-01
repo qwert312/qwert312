@@ -1,6 +1,6 @@
 # <p align="center">Hi! My name is Daniil 👋</p>
 
-I am an aspiring backend developer with a focus on Java, actively building my skills and eager to apply them to real-world business applications :relaxed:
+I am backend developer with a focus on Java, actively building my skills and eager to apply them to real-world business applications :relaxed:
 
 ## 🔧 Technology stack 
 ![SQL](https://img.shields.io/badge/-SQL-363636?style=for-the-badge)
